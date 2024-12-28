@@ -34,7 +34,7 @@ To get started:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/anjali5877/christmas-season-dashboard.git
+   git clone https://github.com/anjali5877/christmas-dashboard.git
    ```
 2. Install Power BI Desktop (if not already installed): [Download here](https://powerbi.microsoft.com/desktop/).
 3. Open the `.pbix` file in Power BI Desktop.
