@@ -1,3 +1,6 @@
+# My dashboard_link: https://drive.google.com/drive/folders/1HpB7Q-FjjBfFynsC-x8v1_y8T-CsBlTR?usp=sharing
+## The reason to upload the link of my dashboard here is that the file size is larger than 25mb.
+
 # 🎄 Christmas Season Dashboard Analysis 🎅
 
 ## What the Project Does
