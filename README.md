@@ -1,10 +1,14 @@
-### My Folder_dashboard_link: https://drive.google.com/drive/folders/1HpB7Q-FjjBfFynsC-x8v1_y8T-CsBlTR?usp=sharing
- Folder has:
-1. ** Images of dashboard
- 2. ** Christmash_dashboard_Documentation
- 3. ** Detail explaination of dashboard Video
- 4. ** pbix file
-### The reason to upload the link of my dashboard here is that the file size is larger than 25mb.
+## Accessing the Dashboard Files
+Due to file size limitations, the complete project files, including the following items, are shared via Google Drive:
+
+1. **Images of the Dashboard**: Visual snapshots of the interactive dashboards.
+2. **Documentation**: Detailed explanations and supporting documents.
+3. **Dashboard Video**: A walkthrough video of the dashboard functionalities.
+4. **.pbix File**: The Power BI project file for further exploration.
+
+Access the folder here: [Christmas Dashboard Files](<insert_your_google_drive_link_here>](https://drive.google.com/drive/folders/1HpB7Q-FjjBfFynsC-x8v1_y8T-CsBlTR?usp=sharing))
+
+**Note**: Ensure you have Power BI Desktop installed to open the `.pbix` file.
 
 # 🎄 Christmas Season Dashboard Analysis 🎅
 
