@@ -1,9 +1,9 @@
 ### My Folder_dashboard_link: https://drive.google.com/drive/folders/1HpB7Q-FjjBfFynsC-x8v1_y8T-CsBlTR?usp=sharing
  Folder has:
-1.Images of dashboard
- 2.Christmash_dashboard_Documentation
- 3.Detail explaination of dashboard Video
- 4.pbix file
+1. ** Images of dashboard
+ 2. ** Christmash_dashboard_Documentation
+ 3. ** Detail explaination of dashboard Video
+ 4. ** pbix file
 ### The reason to upload the link of my dashboard here is that the file size is larger than 25mb.
 
 # 🎄 Christmas Season Dashboard Analysis 🎅
