@@ -6,7 +6,7 @@ Due to file size limitations, the complete project files, including the followin
 3. **Dashboard Video**: A walkthrough video of the dashboard functionalities.
 4. **.pbix File**: The Power BI project file for further exploration.
 
-Access the folder here: [Christmas Dashboard Files]((https://drive.google.com/drive/folders/1HpB7Q-FjjBfFynsC-x8v1_y8T-CsBlTR?usp=sharing))
+Access the folder here: [Christmas Dashboard Files]((<https://drive.google.com/drive/folders/1HpB7Q-FjjBfFynsC-x8v1_y8T-CsBlTR?usp=sharing>))
 
 **Note**: Ensure you have Power BI Desktop installed to open the `.pbix` file.
 
